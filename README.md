@@ -3,6 +3,8 @@ spark-cassandra
 
 Integrating Spark &amp; Cassandra
 
+Warning: Consider this as pre alpha -> Work in progress - API might change very frequently.
+
 ```java
 
 import spark.SparkContext
